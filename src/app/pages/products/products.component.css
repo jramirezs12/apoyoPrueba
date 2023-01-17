@@ -1,0 +1,15 @@
+.card{
+    margin: 51px;
+    min-width: 180px;
+    min-height: auto;
+    max-width: 400px;
+    height: 100%;
+}
+
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
